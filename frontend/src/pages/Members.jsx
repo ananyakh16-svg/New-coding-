@@ -53,7 +53,7 @@ function Members() {
       } else {
 
         await axios.post(
-          "http://127.0.0.1:8000/api/members/",
+          "https://club-management-system-qi4u.onrender.com",
           {
             name,
             role,
