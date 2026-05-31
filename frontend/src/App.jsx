@@ -4,7 +4,7 @@ import Dashboard from "./pages/Dashboard";
 import Members from "./pages/Members";
 import Events from "./pages/Events";
 import Meetings from "./pages/Meetings";
-import Fees from "./pages/FeesTemp.jsx";
+import Fees from "./pages/Fees.jsx";
 import Login from "./pages/Login";
 import Navbar from "./components/Navbar";
 
