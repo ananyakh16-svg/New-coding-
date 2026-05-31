@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-389bk2hrqf%8c83i5q6v!96p^5j5r3q1d(%1r9@7pmcfi5)+7(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["club-management-system-qi4u.onrender.com"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
