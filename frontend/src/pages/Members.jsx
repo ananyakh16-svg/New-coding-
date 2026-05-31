@@ -22,7 +22,7 @@ function Members() {
     try {
 
       const response = await axios.get(
-        "http://127.0.0.1:8000/api/members/"
+        "https://club-management-system-qi4u.onrender.com/api/members/"
       );
 
       setMembers(response.data);
