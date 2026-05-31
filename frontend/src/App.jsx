@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Dashboard from "./pages/Dashboard";
 import Members from "./pages/Members";
 import Events from "./pages/Events";
-import Meetings from "./pages/Meetings";
+import Meetings from "./pages/MeetingsTemp.jsx";
 import Fees from "./pages/Fees.jsx";
 import Login from "./pages/Login.jsx";
 import Navbar from "./components/Navbar";
